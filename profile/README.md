@@ -1,7 +1,5 @@
-### Chromium Team
-
 <div align="center">
 
-Chromium Team
+**Chromium Team**
 
 </div>
